@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD candidate in Natural and Physical Sciences at James Cook University's [Centre for Tropical Environmental and Sustainability Science](https://www.jcu.edu.au/tess)
+subtitle: PhD candidate in Natural and Physical Sciences
 
 profile:
   align: right
