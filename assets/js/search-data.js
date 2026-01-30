@@ -440,18 +440,18 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-excited-to-start-my-phd-jcu-s-centre-for-tropical-environmental-and-sustainability-science-sparkles",
+          title: 'Excited to start my PhD @ JCU’s Centre for Tropical Environmental and Sustainability...',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-won-best-proposal-presentation-at-zoology-and-ecology-north-queensland",
+          title: 'Won best proposal presentation at Zoology and Ecology North Queensland!',
+          description: "",
+          section: "News",},{id: "news-my-first-thesis-chapter-was-published-in-agricultural-and-forest-meteorology",
+          title: 'My first thesis chapter was published in Agricultural and Forest Meteorology!',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
-          description: "",
-          section: "News",},{id: "projects-project-1",
+              window.location.href = "/news/announcement_2025_1/";
+            },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
