@@ -446,8 +446,8 @@ ninja.data = [{
           section: "News",},{id: "news-won-best-proposal-presentation-at-zoology-and-ecology-north-queensland",
           title: 'Won best proposal presentation at Zoology and Ecology North Queensland!',
           description: "",
-          section: "News",},{id: "news-my-first-thesis-chapter-was-published-in-agricultural-and-forest-meteorology",
-          title: 'My first thesis chapter was published in Agricultural and Forest Meteorology!',
+          section: "News",},{id: "news-my-first-thesis-chapter-has-just-been-published-in-agricultural-and-forest-meteorology",
+          title: 'My first thesis chapter has just been published in Agricultural and Forest Meteorology!...',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2025_1/";
