@@ -168,11 +168,14 @@ cv:
         keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
 
     Languages:
-      - name: German
-        summary: "Native speaker"
-
       - name: English
         summary: "Fluent"
+
+      - name: Spanish
+        summary: "Conversational"
+
+      - name: Portuguese
+        summary: "Native speaker"
 
     Interests:
       - name: Physics
@@ -199,7 +202,8 @@ cv:
       - name: Phylogenetic conservatism in ecological dominance
         summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
         highlights:
-          - Quantum Teleportation
+          - Manipulation of large forest census data
+          - Manipulation of phylogenetic trees with R packages picante and ape
           - Quantum Cryptography
         start_date: 2018-01-01
         end_date: 2018-01-01
