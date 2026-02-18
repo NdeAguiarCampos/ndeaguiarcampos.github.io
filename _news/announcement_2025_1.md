@@ -6,7 +6,7 @@ inline: false
 related_posts: false
 ---
 
-In this [systematic review](https://doi.org/10.1016/j.agrformet.2025.110738), I identified key knowledge gaps in tropical forest sap flow research and suggested paths to tackle them.
+In this systematic review, entitled ["Tropical forest transpiration estimates are geographically, ecologically and methodologically biased: a systematic review of sap flow research"](https://doi.org/10.1016/j.agrformet.2025.110738), I identified key knowledge gaps in tropical forest sap flow research and suggested paths to tackle them.
 
 ---
 
@@ -22,6 +22,8 @@ After reading thousands of abstracts and hundreds of papers, I selected 72 studi
     <li>Despite their increasing importance in forest ecology, liana sap flow is rarely measured (< 6% of studies)</li>
     <li>Sap flow methods are often poorly reported and lack standardisation</li>
 </ul>
+
+By pointing to these gaps, I hoped to launch my contribution to the field of **Ecohydrology** and lay out the bases for many more (empirical) studies to come! 
 
 ---
 
