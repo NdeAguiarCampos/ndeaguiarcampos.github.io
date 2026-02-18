@@ -5,9 +5,9 @@ permalink: /
 subtitle: PhD candidate in Natural and Physical Sciences
 
 profile:
-  align: left
+  align: right
   image: profile_pic.jpg
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   # more_info: >
     # <p>555 your office number</p>
     # <p>123 your address street</p>
@@ -27,4 +27,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am currently pursuing a PhD in Tropical Forest Ecology at James Cook University investigating the functional traits of tropical rainforest trees under experimental drought. My research focusses on tree hydraulic traits and water use, encompassing biological interactions and drought-coping strategies in non-drought-adapted rainforest tree species. My research background was primarily in my home country, Brazil, where I delved into the legacy of evolution on the community structure and ecosystem services provided by largely neglected tropical dry forests.
+Welcome to my brand-new website! Here you’ll (eventually) find more details about my work on ecohydrology, ecophysiology, tropical forests, evolutionary ecology, biogeography and climate change.
+
+I'm a **final-year PhD candidate** in Natural and Physical Sciences at James Cook University, in Australia. My current research in the beautiful [Daintree Rainforest](https://www.jcu.edu.au/daintree) investigates how functionally distinct tree species respond to prolonged drought, focussing on their hydraulic traits and water use. An important part of this work has been to identify significant [methodological shortcomings](https://doi.org/10.1016/j.agrformet.2025.110738) in field-based tree water use research and ways to [mitigate uncertainty](https://www.authorea.com/doi/full/10.22541/au.177012032.27017055/v1) in transpiration estimations.
+
+I conducted my previous research primarily in my home country, Brazil, where I delved into the [legacy of evolution](https://doi.org/10.1111/1365-2745.13589) on the community structure and ecosystem services provided by [largely neglected tropical dry forests](https://doi.org/10.1007/s10531-019-01923-4).
+

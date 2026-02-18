@@ -149,6 +149,17 @@ cv:
         url: https://www.sciencedirect.com/science/article/pii/S0168192325003570
         summary: In this systematic review, we showed that sap-flow-based transpiration research in tropical forests has significant gaps and biases. It provides clear guidelines and recommendations to improve the tropical data gap in sap flow compilation initiatives such as SAPFLUXNET.
 
+      - title: "Sensitivity of South American tropical forests to an extreme climate anomaly"
+        authors:
+          - Amy C. Bennett
+          - ...
+          - Natalia de Aguiar-Campos
+          - ...
+          - Oliver Phillips
+        publisher: Nature Climate Change
+        releaseDate: 2022-09-24
+        url: https://link.springer.com/article/10.1007/s11629-021-7013-y
+
       - title: "Old climatically-buffered infertile landscapes (OCBILs): more than harsh habitats, Atlantic Forest inselbergs can be drivers of evolutionary diversity"
         authors:
           - Felipe de Carvalho Araújo
@@ -159,7 +170,6 @@ cv:
         publisher: Journal of Mountain Science
         releaseDate: 2022-09-24
         url: https://link.springer.com/article/10.1007/s11629-021-7013-y
-        summary: 
 
     Skills:
       - name: Physics
@@ -172,7 +182,7 @@ cv:
         summary: "Fluent"
 
       - name: Spanish
-        summary: "Conversational"
+        summary: "Fluent"
 
       - name: Portuguese
         summary: "Native speaker"
