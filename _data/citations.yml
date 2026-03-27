@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-03-09'
+  last_updated: '2026-03-27'
 papers:
   Nv97wcMAAAAJ:2osOgNQ5qMEC:
     citations: 6
     title: 'Temporal shifts on tree species niches: how do they affect species dynamics and community diversity?'
     year: '2020'
   Nv97wcMAAAAJ:3fE2CSJIrl8C:
-    citations: 0
+    citations: 1
     title: Taxonomic identity, but not evolutionary relatedness, determines the carbon stock and uptake of tropical forests trees
     year: '2025'
   Nv97wcMAAAAJ:5nxA0vEk-isC:
@@ -14,7 +14,7 @@ papers:
     title: 'Old climatically-buffered infertile landscapes (OCBILs): more than harsh habitats, Atlantic Forest inselbergs can be drivers of evolutionary diversity'
     year: '2022'
   Nv97wcMAAAAJ:8k81kl-MbHgC:
-    citations: 94
+    citations: 95
     title: Sensitivity of South American tropical forests to an extreme climate anomaly
     year: '2023'
   Nv97wcMAAAAJ:9yKSN-GCB0IC:
@@ -54,7 +54,7 @@ papers:
     title: Study of the floristic, functional and phylogenetic composition of trees in a short time in a forest fragment of the Atlantic Forest, Brazil
     year: '2020'
   Nv97wcMAAAAJ:YsMSGLbcyi4C:
-    citations: 46
+    citations: 47
     title: The carbon sink of tropical seasonal forests in southeastern Brazil can be under threat
     year: '2020'
   Nv97wcMAAAAJ:Zph67rFs4hoC:
@@ -74,11 +74,11 @@ papers:
     title: 'Old climatically-buffered infertile landscapes (OCBILs): more than harsh habitats, Atlantic Forest inselbergs can be drivers of evolutionary diversity.'
     year: '2022'
   Nv97wcMAAAAJ:qjMakFHDy7sC:
-    citations: 44
+    citations: 45
     title: Interactions between climate and soil shape tree community assembly and above-ground woody biomass of tropical dry forests
     year: '2020'
   Nv97wcMAAAAJ:roLk4NBRz8UC:
-    citations: 6
+    citations: 7
     title: 'Tree species consistent co-occurrence in seasonal tropical forests: an approach through association rules analysis. Forest Systems, Volume 30, Issue 2, e006'
     year: '2021'
   Nv97wcMAAAAJ:zYLM7Y9cAGgC:
