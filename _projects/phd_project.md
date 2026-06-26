@@ -14,7 +14,7 @@ related_publications: true
 
 ---
 
-The fieldwork component of my thesis took place between August 2023 and December 2025 in the Daintree Rainforest Observatory, a gorgeous research centre run by James Cook University. The site is located in the ancient Daintree Rainforest and has a unique setup containing a 1-ha plot, a drought experiment (since 2015) and a 47-metre crane that allows access to the forest canopy. There, I spent a fair amount of time installing and monitoring different sensor types (sap flow sensors, point dendrometers, xylem psychrometers) at the base and at the crowns of the trees, collecting leaves for water potential measurements and removing vines from the canopy of the forest to test liana-drought interaction effects on tree transpiration. The fieldwork is almost entirely done, but the thesis itsel is still a work in progress. I expect to finish this project in January 2027 - stay tuned!
+The fieldwork component of my thesis took place between August 2023 and December 2025 in the Daintree Rainforest Observatory, a gorgeous research centre run by James Cook University. The site is located in the ancient Daintree Rainforest and has a unique setup containing a 1-ha plot, a drought experiment (since 2015) and a 47-metre crane that allows access to the forest canopy. There, I spent a fair amount of time installing and monitoring different sensor types (sap flow sensors, point dendrometers, xylem psychrometers), collecting leaves for water potential measurements and removing vines from the canopy of the forest to test liana-drought interaction effects on tree transpiration. The fieldwork is almost entirely done, but the thesis itself is still a work in progress, which I expect to finish in January 2027. Stay tuned!
 
 Check out some photos from the field below (! 
 
@@ -39,13 +39,12 @@ Check out some photos from the field below (!
     </div>
 </div>
 <div class="caption">
-    My fieldwork involved a lot of sensor installations, cable wrangling, wood coring... 
 </div>
 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/vinecutting1.jpeg" title="Vine scramble in drought" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/craneriding2.jpeg.jpeg" title="Installing sensor from crane" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/vinecutting2.jpeg" title="Me with Merremia" class="img-fluid rounded z-depth-1" %}
@@ -55,39 +54,4 @@ Check out some photos from the field below (!
     </div>
 </div>
 <div class="caption">
-    ... vine cutting, ladder climbing...
-</div>
-
-<div class="row justify-content-sm-center align-items-stretch">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid
-            path="assets/img/craneriding1.jpg"
-            title="Crane in the rain"
-            class="img-fluid rounded z-depth-1"
-            style="height:350px; width:100%; object-fit:cover;" %}
-    </div>
-
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid
-            path="assets/img/craneriding2.jpg"
-            title="Installing crown sensor"
-            class="img-fluid rounded z-depth-1"
-            style="height:350px; width:100%; object-fit:cover;" %}
-    </div>
-</div>
-
-<div class="caption">
-    ... crane riding...
-</div>
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/suffering1.jpg" title="Suffering while Yoko laughs" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/smiling1.jpg" title="Accomplished!" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    ... sweat, suffering and accomplishments!
 </div>
