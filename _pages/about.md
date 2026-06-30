@@ -33,4 +33,4 @@ I'm a **final-year PhD candidate** in Natural and Physical Sciences at James Coo
 
 I conducted my previous research primarily in my home country, Brazil, where I delved into the [legacy of evolution](https://doi.org/10.1111/1365-2745.13589) on the community structure and ecosystem services provided by [largely neglected tropical dry forests](https://doi.org/10.1007/s10531-019-01923-4). I have also co-authored multiple studies which quantified the [carbon stocks and sinks](https://doi.org/10.1016/j.actao.2025.104065) of Brazilian tropical forests, [their main drivers](https://doi.org/10.1016/j.foreco.2020.118348) and [main threats](https://doi.org/10.1126/sciadv.abd4548).
 
-When I'm not working on my thesis, I love to go on short hikes, cook delicious vegan recipes, practise yoga, crochet and watch good films from all over the world 🌎
+When I'm not working on my thesis, I love to go on short hikes, cook delicious vegan recipes, crochet and watch good films from all over the world 🌎

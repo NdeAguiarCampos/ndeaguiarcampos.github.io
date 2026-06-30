@@ -16,7 +16,7 @@ related_publications: true
 
 The fieldwork component of my thesis took place between August 2023 and December 2025 in the Daintree Rainforest Observatory, a gorgeous research centre run by James Cook University. The site is located in the ancient Daintree Rainforest and has a unique setup containing a 1-ha plot, a drought experiment (since 2015) and a 47-metre crane that allows access to the forest canopy. There, I spent a fair amount of time installing and monitoring different sensor types (sap flow sensors, point dendrometers, xylem psychrometers), collecting leaves for water potential measurements and removing vines from the canopy of the forest to test liana-drought interaction effects on tree transpiration. The fieldwork is almost entirely done, but the thesis itself is still a work in progress, which I expect to finish in January 2027. Stay tuned!
 
-Check out some photos from the field below (! 
+Check out some photos from the field below! 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
