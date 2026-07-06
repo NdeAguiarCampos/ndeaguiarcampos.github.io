@@ -56,16 +56,21 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2026_2/";
-            },},{id: "projects-evolutionary-and-environmental-drivers-of-tropical-dry-forest-community-structure",
-          title: 'Evolutionary and environmental drivers of tropical dry forest community structure',
+            },},{id: "news-delivered-a-talk-at-atbc2026-in-xishuangbanna",
+          title: 'Delivered a talk at ATBC2026 in Xishuangbanna 🪷',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_2026_3/";
+            },},{id: "projects-evolutionary-ecology-of-tropical-dry-forests",
+          title: 'Evolutionary ecology of tropical dry forests',
           description: "MSc project at Federal University of Lavras (2018-2020)",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/2018-2020_masters_project/";
+              window.location.href = "/projects/masters/";
             },},{id: "projects-drought-effects-on-rainforest-plant-water-use",
           title: 'Drought effects on rainforest plant water use',
           description: "PhD project at James Cook University (2023-2027)",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/2023-2027_phd_project/";
+              window.location.href = "/projects/phd/";
             },},{id: "teachings-data-science-fundamentals",
           title: 'Data Science Fundamentals',
           description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
