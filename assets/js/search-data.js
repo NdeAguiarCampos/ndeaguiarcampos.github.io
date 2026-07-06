@@ -56,6 +56,16 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2026_2/";
+            },},{id: "projects-evolutionary-and-environmental-drivers-of-tropical-dry-forest-community-structure",
+          title: 'Evolutionary and environmental drivers of tropical dry forest community structure',
+          description: "MSc project at Federal University of Lavras (2018-2020)",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/2018-2020_masters_project/";
+            },},{id: "projects-drought-effects-on-rainforest-plant-water-use",
+          title: 'Drought effects on rainforest plant water use',
+          description: "PhD project at James Cook University (2023-2027)",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/2023-2027_phd_project/";
             },},{id: "projects-drought-effects-on-rainforest-plant-water-use",
           title: 'Drought effects on rainforest plant water use',
           description: "PhD project at James Cook University (2023-2027)",
