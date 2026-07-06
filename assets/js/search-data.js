@@ -66,11 +66,6 @@ ninja.data = [{
           description: "PhD project at James Cook University (2023-2027)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2023-2027_phd_project/";
-            },},{id: "projects-drought-effects-on-rainforest-plant-water-use",
-          title: 'Drought effects on rainforest plant water use',
-          description: "PhD project at James Cook University (2023-2027)",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/phd_project/";
             },},{id: "teachings-data-science-fundamentals",
           title: 'Data Science Fundamentals',
           description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
