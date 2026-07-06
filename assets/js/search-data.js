@@ -61,6 +61,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2026_3/";
+            },},{id: "projects-seasonal-forest-dynamics-along-environmental-gradients",
+          title: 'Seasonal forest dynamics along environmental gradients',
+          description: "Undergraduate and master&#39;s research (2016-2020)",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/dynamics/";
             },},{id: "projects-evolutionary-ecology-of-tropical-dry-forests",
           title: 'Evolutionary ecology of tropical dry forests',
           description: "MSc project at Federal University of Lavras (2018-2020)",
