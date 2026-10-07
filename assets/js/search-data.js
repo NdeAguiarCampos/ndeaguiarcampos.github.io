@@ -44,7 +44,7 @@ ninja.data = [{
           title: 'My first thesis chapter has just been published in Agricultural and Forest Meteorology!...',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/news/announcement_2025_1/";
+              window.location.href = "/news/2025-2/";
             },},{id: "news-so-excited-to-present-at-the-esa2025-conference-in-adelaide",
           title: 'So excited to present at the ESA2025 conference in Adelaide 🌳',
           description: "",
@@ -55,12 +55,17 @@ ninja.data = [{
           title: 'Published a thesis chapter in Hydrological Processes! 🎉',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/news/announcement_2026_2/";
+              window.location.href = "/news/2026-2/";
             },},{id: "news-delivered-a-talk-at-atbc2026-in-xishuangbanna",
           title: 'Delivered a talk at ATBC2026 in Xishuangbanna 🪷',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/news/announcement_2026_3/";
+              window.location.href = "/news/2026-3/";
+            },},{id: "news-just-returned-from-two-weeks-of-teaching-field-ecology-in-the-daintree",
+          title: 'Just returned from two weeks of teaching Field Ecology in the Daintree 🌳...',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2026-4/";
             },},{id: "projects-seasonal-forest-dynamics-along-environmental-gradients",
           title: 'Seasonal forest dynamics along environmental gradients',
           description: "Undergraduate and master&#39;s research (2016-2020)",
