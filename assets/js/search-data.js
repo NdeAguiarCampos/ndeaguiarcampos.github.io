@@ -44,29 +44,34 @@ ninja.data = [{
           title: 'My first thesis chapter has just been published in Agricultural and Forest Meteorology!...',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/news/2025-2/";
+              window.location.href = "/news/2025-07-18/";
             },},{id: "news-so-excited-to-present-at-the-esa2025-conference-in-adelaide",
           title: 'So excited to present at the ESA2025 conference in Adelaide 🌳',
-          description: "",
-          section: "News",},{id: "news-my-second-thesis-chapter-came-out-as-a-preprint-today",
-          title: 'My second thesis chapter came out as a preprint today! 🌟',
           description: "",
           section: "News",},{id: "news-published-a-thesis-chapter-in-hydrological-processes",
           title: 'Published a thesis chapter in Hydrological Processes! 🎉',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/news/2026-2/";
+              window.location.href = "/news/2026-05-15/";
             },},{id: "news-delivered-a-talk-at-atbc2026-in-xishuangbanna",
           title: 'Delivered a talk at ATBC2026 in Xishuangbanna 🪷',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/news/2026-3/";
+              window.location.href = "/news/2026-06-30/";
             },},{id: "news-just-returned-from-two-weeks-of-teaching-field-ecology-in-the-daintree",
           title: 'Just returned from two weeks of teaching Field Ecology in the Daintree 🌳...',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/news/2026-4/";
-            },},{id: "projects-seasonal-forest-dynamics-along-environmental-gradients",
+              window.location.href = "/news/2026-08-14/";
+            },},{id: "news-fresh-paper-on-the-long-term-decline-of-carbon-stocks-and-sinks-in-brazilian-forests",
+          title: 'Fresh paper on the long-term decline of carbon stocks and sinks in Brazilian...',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2026-08-17/";
+            },},{id: "news-spent-a-productive-weekend-in-the-field-co-teaching-restoration-ecology-for-undergraduate-and-postgraduate-jcu-students",
+          title: 'Spent a productive weekend in the field co-teaching Restoration Ecology for undergraduate and...',
+          description: "",
+          section: "News",},{id: "projects-seasonal-forest-dynamics-along-environmental-gradients",
           title: 'Seasonal forest dynamics along environmental gradients',
           description: "Undergraduate and master&#39;s research (2016-2020)",
           section: "Projects",handler: () => {
